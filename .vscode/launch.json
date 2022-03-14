@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "FPS_CPP (Debug)",
+			"request": "launch",
+			"preLaunchTask": "FPS_CPP Win64 Debug Build",
+			"program": "D:\\UnrealProjects\\FPS_CPP\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "FPS_CPP (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "FPS_CPP Win64 DebugGame Build",
+			"program": "D:\\UnrealProjects\\FPS_CPP\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "FPS_CPP (Development)",
+			"request": "launch",
+			"preLaunchTask": "FPS_CPP Win64 Development Build",
+			"program": "D:\\UnrealProjects\\FPS_CPP\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "FPS_CPP (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "FPS_CPP Win64 Shipping Build",
+			"program": "D:\\UnrealProjects\\FPS_CPP\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "FPS_CPP (Test)",
+			"request": "launch",
+			"preLaunchTask": "FPS_CPP Win64 Test Build",
+			"program": "D:\\UnrealProjects\\FPS_CPP\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "FPS_CPPEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "FPS_CPPEditor Win64 Debug Build",
+			"program": "C:\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"D:\\UnrealProjects\\FPS_CPP\\FPS_CPP.uproject"
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "FPS_CPPEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "FPS_CPPEditor Win64 DebugGame Build",
+			"program": "C:\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"D:\\UnrealProjects\\FPS_CPP\\FPS_CPP.uproject"
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "FPS_CPPEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "FPS_CPPEditor Win64 Development Build",
+			"program": "C:\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"D:\\UnrealProjects\\FPS_CPP\\FPS_CPP.uproject"
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\UE_4.27\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=D:\\UnrealProjects\\FPS_CPP\\FPS_CPP.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\UE_4.27"
+		}
+	]
+}

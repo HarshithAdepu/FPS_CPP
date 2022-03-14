@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\\\UnrealProjects\\\\FPS_CPP\\\\Source\\\\FPS_CPP\\\\.vscode\\\\c_cpp_properties.json",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe @\"D:\\UnrealProjects\\FPS_CPP\\.vscode\\compileCommands_FPS_CPP\\FPS_CPP.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealProjects\\\\FPS_CPP\\\\Source\\\\FPS_CPP\\\\FPS_CPP.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe @\"D:\\UnrealProjects\\FPS_CPP\\.vscode\\compileCommands_FPS_CPP\\FPS_CPP.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealProjects\\\\FPS_CPP\\\\Source\\\\FPS_CPP\\\\FPS_CPP.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe @\"D:\\UnrealProjects\\FPS_CPP\\.vscode\\compileCommands_FPS_CPP\\FPS_CPP.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealProjects\\\\FPS_CPP\\\\Source\\\\FPS_CPP\\\\FPS_CPP.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe @\"D:\\UnrealProjects\\FPS_CPP\\.vscode\\compileCommands_FPS_CPP\\FPS_CPP.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealProjects\\\\FPS_CPP\\\\Source\\\\FPS_CPP\\\\FPS_CPPGameModeBase.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe @\"D:\\UnrealProjects\\FPS_CPP\\.vscode\\compileCommands_FPS_CPP\\FPS_CPP.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealProjects\\\\FPS_CPP\\\\Source\\\\FPS_CPP\\\\FPS_CPPGameModeBase.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe @\"D:\\UnrealProjects\\FPS_CPP\\.vscode\\compileCommands_FPS_CPP\\FPS_CPP.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealProjects\\\\FPS_CPP\\\\Source\\\\FPS_CPP\\\\MyFPSCharacter.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe @\"D:\\UnrealProjects\\FPS_CPP\\.vscode\\compileCommands_FPS_CPP\\FPS_CPP.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealProjects\\\\FPS_CPP\\\\Source\\\\FPS_CPP\\\\MyFPSCharacter.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe @\"D:\\UnrealProjects\\FPS_CPP\\.vscode\\compileCommands_FPS_CPP\\FPS_CPP.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	}
+]
